@@ -1,12 +1,12 @@
 {
-  "name": "myhubot",
+  "name": "chat-bitbucket",
   "version": "0.0.0",
   "private": true,
   "author": "Julien Bras <julienbras@sidoine.org>",
-  "description": "A simple helpful robot for your Company",
+  "description": "Give you info about Bitbucket PR on Google Hangouts Chat",
   "dependencies": {
     "hubot": "^3.1.1",
-    "hubot-bitbucket-pr": "^1.0.1",
+    "hubot-bitbucket-pr": "bobman38/hubot-bitbucket-pr",
     "hubot-diagnostics": "^1.0.0",
     "hubot-google-hangouts-chat": "bobman38/hubot-google-hangouts-chat",
     "hubot-google-images": "^0.2.7",
