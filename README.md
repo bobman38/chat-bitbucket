@@ -1,6 +1,8 @@
 # chat-bitbucket
 
-#WORKINPROGRESS
+**The Hangouts Chat adapter for Hubot is not able to send asynchronous HTTP call back
+to Hangouts Chat. So hard to create a bot around BitBucket with that ;) Replaced by https://github.com/bobman38/bitbucket-chat-bot **
+****
 
 **This bot is able to give you info about [BitBucket](https://bitbucket.org) PR on a [Google Hangouts Chat](https://chat.google.com/) room.**
 

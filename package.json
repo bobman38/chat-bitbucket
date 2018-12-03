@@ -6,9 +6,9 @@
   "description": "Give you info about Bitbucket PR on Google Hangouts Chat",
   "dependencies": {
     "hubot": "^3.1.1",
-    "hubot-bitbucket-pr": "bobman38/hubot-bitbucket-pr",
+    "hubot-bitbucket-pr": "../hubot-bitbucket-pr",
     "hubot-diagnostics": "^1.0.0",
-    "hubot-google-hangouts-chat": "bobman38/hubot-google-hangouts-chat",
+    "hubot-google-hangouts-chat": "../hubot-google-hangouts-chat",
     "hubot-google-images": "^0.2.7",
     "hubot-google-translate": "^0.2.1",
     "hubot-help": "^1.0.1",
